@@ -1,0 +1,28 @@
+package Weather;
+
+import crafts.Flyable;
+
+import java.util.ArrayList;
+
+public abstract class Tower {
+
+    private ArrayList<Flyable> observers = new ArrayList<>();
+
+    public void register(Flyable flyable) //once above certain point call this
+    {
+        observers.add(flyable);
+    }
+
+    public void unregister(Flyable flyable) //once below certain point call this
+    {
+        observers.remove(flyable);
+    }
+
+    protected void conditionsChanged()
+    {
+        for (int i = 0; i < observers.size(); i++)
+        {
+            observers.get(i).updateConditions();
+        }
+    }
+}
