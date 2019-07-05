@@ -7,120 +7,120 @@ Tower says: Helicopter#H3(6) registered to weather.
 Tower says: Baloon#B3(7) registered to weather.
 Tower says: JetPlane#J2(8) registered to weather.
 Tower says: Helicopter#H4(9) registered to weather.
-Baloon#B1(1): Balloon going down at a rapid pace
-Baloon#B2(2): This is some nice weather we are having. Nice clear blue skies and nice views all over
+Baloon#B1(1): Flaws here ! Put ur hand in the air!
+Baloon#B1(1): is crash landing brace yourself! MAYDAY!MAYDAY!
 Helicopter#H1(4): Command! Helicopter Captain. It's getting a little wet in here!
 Helicopter#H2(5): My rotor is spinning too fast, is it normal
-Helicopter#H3(6): My rotor is spinning too fast, is it normal
-Baloon#B3(7): This is some nice weather we are having. Nice clear blue skies and nice views all over
-Helicopter#H4(9): Tower!! I can't see the helipad
-Baloon#B1(1): This is some nice weather we are having. Nice clear blue skies and nice views all over
-Baloon#B2(2): Balloon to WeatherTower, the air looks kinda weird or maybe i am just high
-JetPlane#J1(3): This is some nice weather we are having. Nice clear blue skies could do with a drink
-Helicopter#H1(4): Command! Helicopter Captain. It's getting a little wet in here!
-Helicopter#H2(5): Tower!! I can't see the helipad
 Helicopter#H3(6): Tower!! I can't see the helipad
 Baloon#B3(7): This is some nice weather we are having. Nice clear blue skies and nice views all over
+JetPlane#J2(8): This is some nice weather we are having. Nice clear blue skies could do with a drink
 Helicopter#H4(9): Command! Helicopter Captain. It's getting a little wet in here!
-Baloon#B1(1): Flaws here ! Put ur hand in the air!
-Baloon#B2(2): Flaws here ! Put ur hand in the air!
-JetPlane#J1(3): This is some nice weather we are having. Nice clear blue skies could do with a drink
+Baloon#B2(2): Balloon going down at a rapid pace
 Helicopter#H1(4): Command! Helicopter Captain. It's getting a little wet in here!
-Helicopter#H2(5): Command! Helicopter Captain. It's getting a little wet in here!
-Helicopter#H3(6): Tower!! I can't see the helipad
-Baloon#B3(7): Balloon going down at a rapid pace
-Helicopter#H4(9): I see smoke from my rotor, I think it froze
-Baloon#B1(1): Balloon going down at a rapid pace
-Baloon#B1(1): is crash landing brace yourself! MAYDAY!MAYDAY!
-JetPlane#J1(3): This is some nice weather we are having. Nice clear blue skies could do with a drink
-Helicopter#H1(4): My rotor is spinning too fast, is it normal
 Helicopter#H2(5): I see smoke from my rotor, I think it froze
 Helicopter#H3(6): My rotor is spinning too fast, is it normal
 Baloon#B3(7): Balloon going down at a rapid pace
-Helicopter#H4(9): My rotor is spinning too fast, is it normal
+Helicopter#H4(9): Command! Helicopter Captain. It's getting a little wet in here!
 Baloon#B2(2): This is some nice weather we are having. Nice clear blue skies and nice views all over
 Helicopter#H1(4): Tower!! I can't see the helipad
 Helicopter#H2(5): Tower!! I can't see the helipad
-Helicopter#H3(6): Tower!! I can't see the helipad
-Baloon#B3(7): Balloon going down at a rapid pace
-Baloon#B3(7): is crash landing brace yourself! MAYDAY!MAYDAY!
-Helicopter#H4(9): My rotor is spinning too fast, is it normal
-Baloon#B2(2): Balloon to WeatherTower, the air looks kinda weird or maybe i am just high
-JetPlane#J1(3): This is some nice weather we are having. Nice clear blue skies could do with a drink
-Helicopter#H1(4): Command! Helicopter Captain. It's getting a little wet in here!
-Helicopter#H2(5): My rotor is spinning too fast, is it normal
-Helicopter#H3(6): I see smoke from my rotor, I think it froze
-JetPlane#J2(8): This is some nice weather we are having. Nice clear blue skies could do with a drink
-Helicopter#H4(9): Tower!! I can't see the helipad
-Baloon#B2(2): Balloon going down at a rapid pace
-JetPlane#J1(3): This is some nice weather we are having. Nice clear blue skies could do with a drink
-Helicopter#H1(4): Command! Helicopter Captain. It's getting a little wet in here!
-Helicopter#H2(5): Tower!! I can't see the helipad
-Helicopter#H3(6): Tower!! I can't see the helipad
-JetPlane#J2(8): This is some nice weather we are having. Nice clear blue skies could do with a drink
-Helicopter#H4(9): My rotor is spinning too fast, is it normal
-Baloon#B2(2): Balloon going down at a rapid pace
-Helicopter#H1(4): Command! Helicopter Captain. It's getting a little wet in here!
-Helicopter#H2(5): I see smoke from my rotor, I think it froze
-Helicopter#H3(6): Tower!! I can't see the helipad
-Helicopter#H4(9): Tower!! I can't see the helipad
-Baloon#B2(2): Balloon to WeatherTower, the air looks kinda weird or maybe i am just high
+Helicopter#H3(6): Command! Helicopter Captain. It's getting a little wet in here!
+Baloon#B3(7): This is some nice weather we are having. Nice clear blue skies and nice views all over
+Helicopter#H4(9): Command! Helicopter Captain. It's getting a little wet in here!
+Baloon#B2(2): This is some nice weather we are having. Nice clear blue skies and nice views all over
 Helicopter#H1(4): I see smoke from my rotor, I think it froze
-Helicopter#H2(5): I see smoke from my rotor, I think it froze
+Helicopter#H2(5): My rotor is spinning too fast, is it normal
 Helicopter#H3(6): Tower!! I can't see the helipad
-Helicopter#H4(9): Tower!! I can't see the helipad
-Baloon#B2(2): Balloon to WeatherTower, the air looks kinda weird or maybe i am just high
-JetPlane#J1(3): This is some nice weather we are having. Nice clear blue skies could do with a drink
-Helicopter#H1(4): Command! Helicopter Captain. It's getting a little wet in here!
-Helicopter#H2(5): I see smoke from my rotor, I think it froze
-Tower says: Helicopter#H2(5) unregistered from weather tower.
+Baloon#B3(7): This is some nice weather we are having. Nice clear blue skies and nice views all over
 Helicopter#H4(9): Tower!! I can't see the helipad
 Baloon#B2(2): Flaws here ! Put ur hand in the air!
 Helicopter#H1(4): Command! Helicopter Captain. It's getting a little wet in here!
-Helicopter#H3(6): Command! Helicopter Captain. It's getting a little wet in here!
+Helicopter#H2(5): Command! Helicopter Captain. It's getting a little wet in here!
+Helicopter#H3(6): I see smoke from my rotor, I think it froze
+Baloon#B3(7): Balloon to WeatherTower, the air looks kinda weird or maybe i am just high
 Helicopter#H4(9): I see smoke from my rotor, I think it froze
 Baloon#B2(2): Balloon going down at a rapid pace
-Helicopter#H1(4): My rotor is spinning too fast, is it normal
-Helicopter#H3(6): I see smoke from my rotor, I think it froze
-Helicopter#H4(9): Tower!! I can't see the helipad
-Baloon#B2(2): Flaws here ! Put ur hand in the air!
 JetPlane#J1(3): This is some nice weather we are having. Nice clear blue skies could do with a drink
+Helicopter#H1(4): My rotor is spinning too fast, is it normal
+Helicopter#H2(5): Command! Helicopter Captain. It's getting a little wet in here!
+Helicopter#H3(6): Command! Helicopter Captain. It's getting a little wet in here!
+Baloon#B3(7): Balloon to WeatherTower, the air looks kinda weird or maybe i am just high
+Helicopter#H4(9): Tower!! I can't see the helipad
+Baloon#B2(2): This is some nice weather we are having. Nice clear blue skies and nice views all over
 Helicopter#H1(4): I see smoke from my rotor, I think it froze
 Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H3(6): Tower!! I can't see the helipad
+Baloon#B3(7): Balloon to WeatherTower, the air looks kinda weird or maybe i am just high
+Helicopter#H4(9): My rotor is spinning too fast, is it normal
+Baloon#B2(2): Balloon to WeatherTower, the air looks kinda weird or maybe i am just high
+Helicopter#H2(5): I see smoke from my rotor, I think it froze
+Helicopter#H3(6): I see smoke from my rotor, I think it froze
+Baloon#B3(7): Balloon going down at a rapid pace
+JetPlane#J2(8): This is some nice weather we are having. Nice clear blue skies could do with a drink
+Helicopter#H4(9): My rotor is spinning too fast, is it normal
+Baloon#B2(2): This is some nice weather we are having. Nice clear blue skies and nice views all over
+Helicopter#H2(5): My rotor is spinning too fast, is it normal
+Helicopter#H3(6): My rotor is spinning too fast, is it normal
+Baloon#B3(7): This is some nice weather we are having. Nice clear blue skies and nice views all over
+Helicopter#H4(9): Tower!! I can't see the helipad
+Baloon#B2(2): Balloon going down at a rapid pace
+JetPlane#J1(3): This is some nice weather we are having. Nice clear blue skies could do with a drink
+Helicopter#H2(5): My rotor is spinning too fast, is it normal
+Helicopter#H3(6): Command! Helicopter Captain. It's getting a little wet in here!
+Baloon#B3(7): This is some nice weather we are having. Nice clear blue skies and nice views all over
+Helicopter#H4(9): I see smoke from my rotor, I think it froze
+Baloon#B2(2): Balloon going down at a rapid pace
+Helicopter#H2(5): Command! Helicopter Captain. It's getting a little wet in here!
+Helicopter#H3(6): My rotor is spinning too fast, is it normal
+Baloon#B3(7): Flaws here ! Put ur hand in the air!
+Helicopter#H4(9): I see smoke from my rotor, I think it froze
+Baloon#B2(2): This is some nice weather we are having. Nice clear blue skies and nice views all over
+Helicopter#H2(5): I see smoke from my rotor, I think it froze
+Helicopter#H3(6): Tower!! I can't see the helipad
+Baloon#B3(7): Flaws here ! Put ur hand in the air!
+Helicopter#H4(9): My rotor is spinning too fast, is it normal
+Baloon#B2(2): This is some nice weather we are having. Nice clear blue skies and nice views all over
+Helicopter#H2(5): Command! Helicopter Captain. It's getting a little wet in here!
+Helicopter#H3(6): My rotor is spinning too fast, is it normal
+Baloon#B3(7): Balloon going down at a rapid pace
+Baloon#B3(7): is crash landing brace yourself! MAYDAY!MAYDAY!
+Helicopter#H4(9): Tower!! I can't see the helipad
+Baloon#B2(2): Balloon to WeatherTower, the air looks kinda weird or maybe i am just high
+Helicopter#H2(5): My rotor is spinning too fast, is it normal
+Helicopter#H3(6): Tower!! I can't see the helipad
 Helicopter#H4(9): Command! Helicopter Captain. It's getting a little wet in here!
+Baloon#B2(2): Balloon to WeatherTower, the air looks kinda weird or maybe i am just high
+Helicopter#H2(5): My rotor is spinning too fast, is it normal
+Helicopter#H3(6): My rotor is spinning too fast, is it normal
+Helicopter#H4(9): Tower!! I can't see the helipad
+Baloon#B2(2): Balloon going down at a rapid pace
+Helicopter#H2(5): I see smoke from my rotor, I think it froze
+Helicopter#H3(6): Tower!! I can't see the helipad
+Helicopter#H4(9): I see smoke from my rotor, I think it froze
 Baloon#B2(2): Balloon going down at a rapid pace
 Baloon#B2(2): is crash landing brace yourself! MAYDAY!MAYDAY!
-Helicopter#H3(6): I see smoke from my rotor, I think it froze
-Helicopter#H4(9): My rotor is spinning too fast, is it normal
+Helicopter#H2(5): Command! Helicopter Captain. It's getting a little wet in here!
 Helicopter#H3(6): Command! Helicopter Captain. It's getting a little wet in here!
-JetPlane#J2(8): This is some nice weather we are having. Nice clear blue skies could do with a drink
 Helicopter#H4(9): My rotor is spinning too fast, is it normal
-JetPlane#J1(3): This is some nice weather we are having. Nice clear blue skies could do with a drink
-Helicopter#H3(6): My rotor is spinning too fast, is it normal
+Helicopter#H2(5): I see smoke from my rotor, I think it froze
+Tower says: Helicopter#H2(5) unregistered from weather tower.
 Helicopter#H4(9): Command! Helicopter Captain. It's getting a little wet in here!
-Helicopter#H3(6): I see smoke from my rotor, I think it froze
-Helicopter#H4(9): My rotor is spinning too fast, is it normal
-Helicopter#H3(6): My rotor is spinning too fast, is it normal
-JetPlane#J2(8): This is some nice weather we are having. Nice clear blue skies could do with a drink
-Helicopter#H4(9): Command! Helicopter Captain. It's getting a little wet in here!
-Helicopter#H3(6): I see smoke from my rotor, I think it froze
-Helicopter#H4(9): Tower!! I can't see the helipad
-Helicopter#H3(6): Tower!! I can't see the helipad
-Helicopter#H4(9): My rotor is spinning too fast, is it normal
-Helicopter#H3(6): Tower!! I can't see the helipad
+Helicopter#H3(6): Command! Helicopter Captain. It's getting a little wet in here!
 Helicopter#H4(9): Tower!! I can't see the helipad
 JetPlane#J1(3): This is some nice weather we are having. Nice clear blue skies could do with a drink
 Helicopter#H3(6): Command! Helicopter Captain. It's getting a little wet in here!
+Helicopter#H4(9): Tower!! I can't see the helipad
+Helicopter#H3(6): My rotor is spinning too fast, is it normal
+Helicopter#H4(9): Command! Helicopter Captain. It's getting a little wet in here!
+Helicopter#H3(6): I see smoke from my rotor, I think it froze
+JetPlane#J2(8): This is some nice weather we are having. Nice clear blue skies could do with a drink
+Helicopter#H4(9): Command! Helicopter Captain. It's getting a little wet in here!
+Helicopter#H3(6): Command! Helicopter Captain. It's getting a little wet in here!
+Helicopter#H4(9): My rotor is spinning too fast, is it normal
+Helicopter#H3(6): Tower!! I can't see the helipad
 Helicopter#H4(9): I see smoke from my rotor, I think it froze
 Helicopter#H3(6): My rotor is spinning too fast, is it normal
+Helicopter#H4(9): My rotor is spinning too fast, is it normal
+Helicopter#H3(6): Command! Helicopter Captain. It's getting a little wet in here!
 JetPlane#J2(8): This is some nice weather we are having. Nice clear blue skies could do with a drink
 Helicopter#H4(9): Tower!! I can't see the helipad
-JetPlane#J1(3): This is some nice weather we are having. Nice clear blue skies could do with a drink
-Helicopter#H3(6): Tower!! I can't see the helipad
-Helicopter#H4(9): My rotor is spinning too fast, is it normal
-JetPlane#J1(3): This is some nice weather we are having. Nice clear blue skies could do with a drink
-Helicopter#H3(6): I see smoke from my rotor, I think it froze
-Helicopter#H4(9): My rotor is spinning too fast, is it normal
-Helicopter#H3(6): My rotor is spinning too fast, is it normal
-JetPlane#J2(8): This is some nice weather we are having. Nice clear blue skies could do with a drink
-Helicopter#H4(9): Command! Helicopter Captain. It's getting a little wet in here!
