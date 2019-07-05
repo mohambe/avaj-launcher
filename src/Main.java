@@ -11,8 +11,6 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 
 
-
-
 public class Main
 {
 
@@ -32,7 +30,7 @@ public class Main
 
             if(Readline != null)
             {
-                System.out.println("hello");
+                System.out.println("File was read");
             }
             while((Readline = reader.readLine()) != null )
             {

@@ -10,10 +10,14 @@ public class Helicopter extends Aircraft implements Flyable{
     public Helicopter(String name, Coordinates coordinates)
     {
         super(name,coordinates);
-
     }
+
+    /**
+     * This method will update the weather conditions of the sim.
+     */
+
     public void updateConditions() {
-       // weatherTower.getWeather(coordinates);//return
+      
        String weather = weatherTower.getWeather(coordinates);
         if (weather.equals("SUN"))
         {
@@ -43,6 +47,10 @@ public class Helicopter extends Aircraft implements Flyable{
 
     }
 
+    /**
+     * This method will register a flyable to the weather to
+     * @param weatherTower - flyable(Helicopter) to the weather tower
+     */
 
     public void registerTower(WeatherTower weatherTower){
         this.weatherTower = weatherTower;

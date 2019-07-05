@@ -13,6 +13,11 @@ public abstract class Tower {
         observers.add(flyable);
     }
 
+      /**
+     * UnRegisters the flyable if it exists
+     * @param flyable - Is the flyable that will be unregistered from the weather tower
+     */
+
     public void unregister(Flyable flyable) //once below certain point call this
     {
         observers.remove(flyable);

@@ -12,6 +12,14 @@ public class JetPlane  extends Aircraft implements Flyable {
         super(name,coordinates);
 
     }
+
+       /**
+     * This will request the weather from the weatherTower and based on the
+     * conditions, it will modify the coordinates
+     * If the height of the flyable is 0 (meaning the flight has landed)
+     * it will unregister it from the weatherTower
+     */
+
    
     public void updateConditions() {
          String weather = weatherTower.getWeather(coordinates);
@@ -44,6 +52,12 @@ public class JetPlane  extends Aircraft implements Flyable {
         }
 
     }
+
+
+    /**
+     * This with register this flyable(JetPlane) to the weather tower and log the message to a log file
+     * @param weatherTower - registers this flyable(JetPlane) to the weather tower
+     */
 
     public void registerTower(WeatherTower weatherTower){
         this.weatherTower = weatherTower;
